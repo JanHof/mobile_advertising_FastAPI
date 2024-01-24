@@ -18,7 +18,7 @@ The main entry point of the application is the index.py file. It creates the Fas
 
 
 <h4>API Endpoints</h4>
-<l>The following API endpoints are available:</l>
+The following API endpoints are available:
 
 Users:
 
@@ -30,38 +30,44 @@ DELETE /users/{id}: Delete a user by ID. <br>
 
 Devices:
 
-GET /devices: Retrieve all devices.
-GET /devices/{device_id}: Retrieve a specific device by ID.
-POST /devices/create: Create a new device.
-PUT /devices/{device_id}: Update a device by ID.
-DELETE /devices/{device_id}: Delete a device by ID.
+GET /devices: Retrieve all devices.<br>
+GET /devices/{device_id}: Retrieve a specific device by ID.<br>
+POST /devices/create: Create a new device.<br>
+PUT /devices/{device_id}: Update a device by ID.<br>
+DELETE /devices/{device_id}: Delete a device by ID.<br>
+
 Companies:
 
-GET /companies: Retrieve all companies.
-GET /companies/{comp_id}: Retrieve a specific company by ID.
-POST /companies: Create a new company.
-PUT /companies/{comp_id}: Update a company by ID.
-DELETE /companies/{comp_id}: Delete a company by ID.
+GET /companies: Retrieve all companies.<br>
+GET /companies/{comp_id}: Retrieve a specific company by ID.<br>
+POST /companies: Create a new company.<br>
+PUT /companies/{comp_id}: Update a company by ID.<br>
+DELETE /companies/{comp_id}: Delete a company by ID.<br>
+
 Campaigns:
 
-GET /campaigns: Retrieve all campaigns.
-GET /campaigns/{camp_id}: Retrieve a specific campaign by ID.
-POST /campaigns: Create a new campaign.
-PUT /campaigns/{camp_id}: Update a campaign by ID.
-DELETE /campaigns/{camp_id}: Delete a campaign by ID.
+GET /campaigns: Retrieve all campaigns.<br>
+GET /campaigns/{camp_id}: Retrieve a specific campaign by ID.<br>
+POST /campaigns: Create a new campaign.<br>
+PUT /campaigns/{camp_id}: Update a campaign by ID.<br>
+DELETE /campaigns/{camp_id}: Delete a campaign by ID.<br>
+
 Impressions:
 
-GET /impressions: Retrieve all impressions.
-GET /impressions/{imp_id}: Retrieve a specific impression by ID.
-POST /impressions: Create a new impression.
-PUT /impressions/{imp_id}: Update an impression by ID.
-DELETE /impressions/{imp_id}: Delete an impression by ID.
-Technologies Used
-FastAPI
-MongoDB
-Motor (Async MongoDB Driver)
-Pydantic
+GET /impressions: Retrieve all impressions.<br>
+GET /impressions/{imp_id}: Retrieve a specific impression by ID.<br>
+POST /impressions: Create a new impression.<br>
+PUT /impressions/{imp_id}: Update an impression by ID.<br>
+DELETE /impressions/{imp_id}: Delete an impression by ID.<br>
 
-Contributors
+Technologies Used:
+
+FastAPI<br>
+MongoDB<br>
+Motor (Async MongoDB Driver)<br>
+Pydantic<br>
+
+Contributors:
+
 Jan Hendrik Hofmeyr
 
