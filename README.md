@@ -17,8 +17,8 @@ The schemas.py file consists of asynchronous functions that convert MongoDB docu
 The main entry point of the application is the index.py file. It creates the FastAPI app, includes the defined routers from routes.py, and configures any necessary settings.
 
 
-API Endpoints
-The following API endpoints are available:
+<h4>API Endpoints</h4>
+<l>The following API endpoints are available:</l>
 
 Users:
 
