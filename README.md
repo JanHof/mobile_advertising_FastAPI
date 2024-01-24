@@ -3,7 +3,7 @@ CRUD Queries for mobile advertising app in FastAPI
 Overview
 This project is a FastAPI-based web application that serves as an API for managing user information, devices, companies, campaigns, and impressions. It includes functionality for CRUD (Create, Read, Update, Delete) operations on these entities.
 
-Project Structure:
+<h4>Project Structure:</h4>
 1. models.py
 This module contains the Pydantic models representing the data structures used in the application. These models define the structure of user, device, company, campaign, and impression entities.
 
@@ -19,7 +19,7 @@ The main entry point of the application is the index.py file. It creates the Fas
 
 <h4>API Endpoints</h4>
 The following API endpoints are available:
-
+<br>
 Users:
 
 GET /users: Retrieve all users. <br>
