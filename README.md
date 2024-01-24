@@ -22,11 +22,12 @@ The main entry point of the application is the index.py file. It creates the Fas
 
 Users:
 
-<l>GET /users: Retrieve all users.</l>
-<l>GET /users/{id}: Retrieve a specific user by ID.</l>
-<l>POST /users: Create a new user.</l>
-<l>PUT /users/{id}: Update a user by ID.</l>
-<l>DELETE /users/{id}: Delete a user by ID.</l>
+GET /users: Retrieve all users. <br>
+GET /users/{id}: Retrieve a specific user by ID. <br>
+POST /users: Create a new user. <br>
+PUT /users/{id}: Update a user by ID. <br>
+DELETE /users/{id}: Delete a user by ID. <br>
+
 Devices:
 
 GET /devices: Retrieve all devices.
