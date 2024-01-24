@@ -18,9 +18,7 @@ The main entry point of the application is the index.py file. It creates the Fas
 
 
 <h4>API Endpoints</h4>
-The following api endpoints are available:      
-
-
+The following api endpoints are available: <br>     
 
 
 Users:  
