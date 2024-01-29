@@ -1,4 +1,4 @@
-# mobile_advertising_FastAPI
+# Mobile_Advertising_FastAPI
 CRUD Queries for mobile advertising app in FastAPI
 Overview
 This project is a FastAPI-based web application that serves as an API for managing user information, devices, companies, campaigns, and impressions. It includes functionality for CRUD (Create, Read, Update, Delete) operations on these entities.
